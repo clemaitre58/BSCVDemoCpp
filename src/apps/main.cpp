@@ -3,11 +3,14 @@
 #include "../common/complex.hpp"
 #include "../common/phone.hpp"
 #include "../common/smartphone.hpp"
-
+#include "../common/voyageur_titanic.hpp"
 
 int main() {
 
-	phone my_phone;
+
+
+
+/*	phone my_phone;
 
 	my_phone.set_value(150);
 	std::cout << my_phone.get_value() << "\n";
@@ -52,5 +55,6 @@ int main() {
 	
 	float n = my_complex2.get_arg();
 	std::cout << "Arg of my_compex2 obj : " << n << "\n";
-    return 0;
+    return 0;i
+*/
 }
